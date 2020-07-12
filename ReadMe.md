@@ -1,43 +1,48 @@
 ### READ ME
 
-#### 1. –{ƒŒƒ|ƒWƒgƒŠ‚ÍH
+#### 1. What is the InputKey?
 
-Žw’è‚µ‚½ƒtƒ@ƒCƒ‹‚É‘‚©‚ê‚½•¶Žš—ñ‚ðƒL[ƒ{[ƒh“ü—Í‚·‚éƒXƒNƒŠƒvƒg
+The InputKey automatically input keys by using python 3. 
+Please avoid routine work by using the program :)
 
+*I'm sorry, japanese comments is writtein in the program.
+So, you should erase these comments before running the program.
 
-#### 2. Ž–‘O€”õ•¨
+#### 2. Needs to run
 
-Python (3Œn‚Å‚µ‚©ŽŽ‚µ‚Ä‚¢‚Ü‚¹‚ñD): pyautoguiƒ‚ƒWƒ…[ƒ‹	
+Please install python 3. 
+Moreover, you may need to install the "pyautgui" module.
 
 #### 3. How to use
 
-ƒoƒbƒ`ƒtƒ@ƒCƒ‹
+Comming soon. (If I have a motivation...)
+
+(ä»¥ä¸‹ï¼Œè‹±èªžåŒ–ã™ã‚‹ã®ã‚ã‚“ã©ãã•ã„ã‹ã‚‰å¾Œç¨‹)
+
+
+#### 4. ãƒ•ã‚¡ã‚¤ãƒ«ã®æ›¸ãæ–¹(ä»•æ§˜)
+
+##### 4.1 ç‰¹å®šæ–‡å­—åˆ—ã®è¨˜è¼‰
+
+ã€€é–“é•ãˆã¦ç•°ãªã‚‹æ–‡å­—åˆ—é›†åˆã‚’ã‚­ãƒ¼ãƒœãƒ¼ãƒ‰å…¥åŠ›ã™ã‚‹ã®ã‚’é¿ã‘ã‚‹ãŸã‚ï¼Œãƒ•ã‚¡ã‚¤ãƒ«ã®æœ€å‰è¡Œã¨æœ€çµ‚è¡Œã«ç‰¹å®šã®æ–‡å­—åˆ—ãŒãªã‘ã‚Œã°å®Ÿè¡Œã§ããªã„ã‚ˆã†ã«ã™ã‚‹ï¼Ž
+
+- ãƒ•ã‚¡ã‚¤ãƒ«ã®æœ€å‰è¡Œ: ##############start##############
+- ãƒ•ã‚¡ã‚¤ãƒ«ã®æœ€çµ‚è¡Œ: ##############finish##############
+
+##### 4.2 ã‚³ãƒ¡ãƒ³ãƒˆã‚¢ã‚¦ãƒˆ
+
+ã€€Pythonã¨åŒæ§˜ã«ï¼Œå„è¡Œã®å…ˆé ­å…¥åŠ›æ–‡å­—ãŒ#ã®å ´åˆï¼Œã‚³ãƒ¡ãƒ³ãƒˆã¨ã—ã¦èªè­˜ã•ã‚Œã‚‹ï¼Ž
+
+
+##### 4.3 ç‰¹æ®Šæ–‡å­—ã®æ›¸ãæ–¹
+
+ã‚¢ãƒ«ãƒ•ã‚¡ãƒ™ãƒƒãƒˆãƒ»æ•°å­—: ãã®ã¾ã¾å…¥åŠ›ã™ã‚Œã°ã‚ˆã„ï¼ˆæ—¥æœ¬èªžã¯ã‚µãƒãƒ¼ãƒˆã—ã¦ã„ã¾ã›ã‚“ï¼Žï¼‰
+
+Shiftã‚„Ctrlç­‰ã®ç‰¹æ®Šã‚­ãƒ¼å…¥åŠ›æ–¹æ³•ï¼š[]ã®é–“ã«å…¥åŠ›ã—ãŸã„ã‚­ãƒ¼ã‚’æ›¸ã. [Shift]ã‚„[ctrl]ã®ã‚ˆã†ã«æ›¸ã
+
+ç‰¹å®šã®ç‰¹æ®Šãƒœã‚¿ãƒ³ã‚’æŠ¼ã—ãªãŒã‚‰ã‚­ãƒ¼å…¥åŠ›ã‚’è¡Œã†å ´åˆ: [shift, ABC]ã®ã‚ˆã†ã«æ›¸ãï¼Ž 
 
 
 
-#### 4. ƒtƒ@ƒCƒ‹‚Ì‘‚«•û(Žd—l)
-
-##### 4.1 “Á’è•¶Žš—ñ‚Ì‹LÚ
-
-@ŠÔˆá‚¦‚ÄˆÙ‚È‚é•¶Žš—ñW‡‚ðƒL[ƒ{[ƒh“ü—Í‚·‚é‚Ì‚ð”ð‚¯‚é‚½‚ßCƒtƒ@ƒCƒ‹‚ÌÅ‘Os‚ÆÅIs‚É“Á’è‚Ì•¶Žš—ñ‚ª‚È‚¯‚ê‚ÎŽÀs‚Å‚«‚È‚¢‚æ‚¤‚É‚·‚éD
-
-- ƒtƒ@ƒCƒ‹‚ÌÅ‘Os: ##############start##############
-- ƒtƒ@ƒCƒ‹‚ÌÅIs: ##############finish##############
-
-##### 4.2 ƒRƒƒ“ƒgƒAƒEƒg
-
-@Python‚Æ“¯—l‚ÉCŠes‚Ìæ“ª“ü—Í•¶Žš‚ª#‚Ìê‡CƒRƒƒ“ƒg‚Æ‚µ‚Ä”FŽ¯‚³‚ê‚éD
-
-
-##### 4.3 “ÁŽê•¶Žš‚Ì‘‚«•û
-
-ƒAƒ‹ƒtƒ@ƒxƒbƒgE”Žš: ‚»‚Ì‚Ü‚Ü“ü—Í‚·‚ê‚Î‚æ‚¢i“ú–{Œê‚ÍƒTƒ|[ƒg‚µ‚Ä‚¢‚Ü‚¹‚ñDj
-
-Shift‚âCtrl“™‚Ì“ÁŽêƒL[“ü—Í•û–@F[]‚ÌŠÔ‚É“ü—Í‚µ‚½‚¢ƒL[‚ð‘‚­. [Shift]‚â[ctrl]‚Ì‚æ‚¤‚É‘‚­
-
-“Á’è‚Ì“ÁŽêƒ{ƒ^ƒ“‚ð‰Ÿ‚µ‚È‚ª‚çƒL[“ü—Í‚ðs‚¤ê‡: [shift, ABC]‚Ì‚æ‚¤‚É‘‚­D 
-
-
-
-“ÁŽêƒL[“ü—Í•û–@‚ÌŽQlURL:  [http://bttb.s1.valueserver.jp/wordpress/blog/2017/08/25/pyautogui%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9-%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E6%93%8D%E4%BD%9C%E7%B7%A8/](http://bttb.s1.valueserver.jp/wordpress/blog/2017/08/25/pyautogui‚ÌŽg‚¢•û-ƒL[ƒ{[ƒh‘€ì•Ò/) 
+ç‰¹æ®Šã‚­ãƒ¼å…¥åŠ›æ–¹æ³•ã®å‚è€ƒURL:  [http://bttb.s1.valueserver.jp/wordpress/blog/2017/08/25/pyautogui%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9-%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E6%93%8D%E4%BD%9C%E7%B7%A8/](http://bttb.s1.valueserver.jp/wordpress/blog/2017/08/25/pyautoguiã®ä½¿ã„æ–¹-ã‚­ãƒ¼ãƒœãƒ¼ãƒ‰æ“ä½œç·¨/) 
 
