@@ -1,0 +1,14 @@
+##############start##############
+
+
+##afsldkjfa;lskdjf‚µ‚È‚ÎŒ³’m
+##flakjsd;flkja;sdlkfjas;dfklja;dskf
+##flakjsd;flkja;sdlkfjas;dfklja;dskf
+I am a good  student
+I am a good student[shift,boost]
+I am a good [Enter] student[Enter]
+[Enter]I am a good  student[Enter]
+I am a good  student
+
+
+##############finish##############
