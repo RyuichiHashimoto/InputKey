@@ -3,15 +3,15 @@
 #### 1. What is the InputKey?
 
 The InputKey automatically input keys by using python 3. 
-Please avoid routine work by using the program :)
 
-*I'm sorry, japanese comments is writtein in the program.
+Please reduce routine work hours by using the program :)
+
+*I'm sorry, japanese comments is writtein in this source code.
 So, you should erase these comments before running the program.
 
 #### 2. Needs to run
 
-Please install python 3. 
-Moreover, you may need to install the "pyautgui" module.
+Please install python 3 with the "pyautgui" module. 
 
 #### 3. How to use
 
