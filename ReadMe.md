@@ -17,32 +17,29 @@ Please install python 3 with the "pyautgui" module.
 
 Comming soon. (If I have a motivation...)
 
-(以下，英語化するのめんどくさいから後程)
+#### 4. How to create the input file
+
+##### 4.1 Need to write specific character strings.
+
+　For avoiding usage of an unexpected file, it cannot be executed unless there are specific character strings on the first and last lines of the file..
+
+- first line of an input file:  ##############start##############
+- last line of an input file: ##############finish##############
+
+##### 4.2 comment out
+
+Same as the Python, Comments of the input file begin with a hash mark ( # ) and whitespace character and continue to the end of the line.
+
+##### 4.3 special character (ctrl, alt)
+
+Alphabet, number: As it is
+
+Special key (Ctrl, alt, Shift): input the key name inside the [] (e.g., [Shift], [ctrl])
+
+Alphabet or number while pressing a specific special button: write such as [shift, abc] 
 
 
-#### 4. ファイルの書き方(仕様)
-
-##### 4.1 特定文字列の記載
-
-　間違えて異なる文字列集合をキーボード入力するのを避けるため，ファイルの最前行と最終行に特定の文字列がなければ実行できないようにする．
-
-- ファイルの最前行: ##############start##############
-- ファイルの最終行: ##############finish##############
-
-##### 4.2 コメントアウト
-
-　Pythonと同様に，各行の先頭入力文字が#の場合，コメントとして認識される．
-
-
-##### 4.3 特殊文字の書き方
-
-アルファベット・数字: そのまま入力すればよい（日本語はサポートしていません．）
-
-ShiftやCtrl等の特殊キー入力方法：[]の間に入力したいキーを書く. [Shift]や[ctrl]のように書く
-
-特定の特殊ボタンを押しながらキー入力を行う場合: [shift, ABC]のように書く． 
-
-
-
-特殊キー入力方法の参考URL:  [http://bttb.s1.valueserver.jp/wordpress/blog/2017/08/25/pyautogui%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9-%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E6%93%8D%E4%BD%9C%E7%B7%A8/](http://bttb.s1.valueserver.jp/wordpress/blog/2017/08/25/pyautoguiの使い方-キーボード操作編/) 
+[Reference]
+How to write a special button (japanese)
+http://bttb.s1.valueserver.jp/wordpress/blog/2017/08/25/pyautogui%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9-%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E6%93%8D%E4%BD%9C%E7%B7%A8/](http://bttb.s1.valueserver.jp/wordpress/blog/2017/08/25/pyautoguiの使い方-キーボード操作編/
 
