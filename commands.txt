@@ -1,7 +1,7 @@
 ##############start##############
 
 
-##afsldkjfa;lskdjf���ȂΌ��m
+##afsldkjfa;lskdjf‚µ‚È‚ÎŒ³’m
 ##flakjsd;flkja;sdlkfjas;dfklja;dskf
 ##flakjsd;flkja;sdlkfjas;dfklja;dskf
 I am a good  student
@@ -10,5 +10,19 @@ I am a good [Enter] student[Enter]
 [Enter]I am a good  student[Enter]
 I am a good  student
 
+alias python="python3" 
+alias pip="pip3"
+alias clip=" head -c -1 | xsel --clipboard --input"
+
+## The next line change the keyboard layout to JP mode.
+setxkbmap jp
+
+## keycode 102(100) is the left (right) of the space key
+xmodmap -e 'keycode 102 = Zenkaku_Hankaku'
+xmodmap -e 'keycode 100 = Zenkaku_Hankaku'
+
+
+## keycode 49 is the hankaku zenkaku key.
+xmodmap -e 'keycode 49 = Escape'
 
 ##############finish##############
